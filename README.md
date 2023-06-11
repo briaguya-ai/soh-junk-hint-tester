@@ -1,2 +1,5 @@
 # soh-junk-hint-tester
-webapp for testing junk hint text before adding it to soh
+
+## https://briaguya-ai.github.io/soh-junk-hint-tester
+
+powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
